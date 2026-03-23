@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.114.0 (2026-03-23)
+
+### Features
+
+ * wrap circuit diagrams
+
 ## v1.113.1 (2026-03-18)
 
 ### Bug Fixes and Other Changes
