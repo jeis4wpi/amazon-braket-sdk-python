@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.117.0 (2026-04-24)
+
+### Deprecations and Removals
+
+ * Disable pickle deserialization by default for security
+
 ## v1.116.0 (2026-04-20)
 
 ### Deprecations and Removals
